@@ -1,4 +1,4 @@
-# melGAN_FPN
+# melGAN+Feature Pyramid Network
 ## Make txt file from raw data folder(wavs)
 ### (In Windows)
 - cd ./wavs
